@@ -1,1 +1,1 @@
-# Project-2
+# Heart Failure Predictions
