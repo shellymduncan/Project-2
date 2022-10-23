@@ -23,4 +23,8 @@
 ![image](https://user-images.githubusercontent.com/110746798/197421952-42aefaeb-5c50-4dda-8158-cc33e4c26ede.png)
 * This bar blot shows the different types of Chest Pain Type among Age of patients in relation to Heart Disease. According to the bar plot persons who are of age 55 have the same ASY and TA Chest Pain Type.
 ![image](https://user-images.githubusercontent.com/110746798/197422469-d1c9cfdf-c022-4ad2-ac4d-3574ff06dd5f.png)
-* 
+* This bar plot shows that there are more men than women with heart disease.
+# Final Recommendations
+
+# Further Contact Information
+* For any questions, please email me at shellymduncan@gmail.com
