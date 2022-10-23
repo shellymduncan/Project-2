@@ -18,4 +18,6 @@
 11. ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 12. HeartDisease: output class [1: heart disease, 0: Normal]
 # Methods
-* This dataset was thoroughly examined and cleaned. Several visualizations were created to explain the characteristics of the dataset. They dataset was then 
+* This dataset was thoroughly examined and cleaned. Several visualizations were created to explain the characteristics of the dataset. After the dataset was 
+# Explanatory Analysis
+* ![image](https://user-images.githubusercontent.com/110746798/197421952-42aefaeb-5c50-4dda-8158-cc33e4c26ede.png)
