@@ -25,8 +25,8 @@
 ![image](https://user-images.githubusercontent.com/110746798/197422469-d1c9cfdf-c022-4ad2-ac4d-3574ff06dd5f.png)
 * This bar plot shows that there are more men than women with heart disease.
 # Final Model
-* My final model choice for Heart Failure predictions is the baseline KNN model. This model has the highest accuracy for predictions.
+* My final model choice for Heart Failure predictions is the baseline KNN model. This model has the highest accuracy for predictions of heart failure.
 # Final Recommendations
-* For my final recomendations, men should be monitored for heart disease 
+* For my final recomendations, persons should be monitored for heart disease with a focus on age as a major factor.
 # Further Contact Information
 * For any questions, please email me at shellymduncan@gmail.com
