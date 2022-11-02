@@ -18,7 +18,7 @@
 11. ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 12. HeartDisease: output class [1: heart disease, 0: Normal]
 # Methods
-* This dataset was thoroughly examined and cleaned. Several visualizations were created to explain the characteristics of the dataset. After the dataset was 
+* This dataset was thoroughly examined and cleaned. Several visualizations were created to explain the characteristics of the dataset. After the visualizations were created, several machine learning models were used and then these were tuned using GridSearchCV.
 # Explanatory Analysis
 ![image](https://user-images.githubusercontent.com/110746798/197421952-42aefaeb-5c50-4dda-8158-cc33e4c26ede.png)
 * This bar blot shows the different types of Chest Pain Type among Age of patients in relation to Heart Disease. According to the bar plot persons who are of age 55 have the same ASY and TA Chest Pain Type.
@@ -27,6 +27,6 @@
 # Final Model
 * My final model choice for Heart Failure predictions is the baseline KNN model. This model has the highest accuracy for predictions.
 # Final Recommendations
-* For my final recomendations, 
+* For my final recomendations, men should be monitored for heart disease 
 # Further Contact Information
 * For any questions, please email me at shellymduncan@gmail.com
