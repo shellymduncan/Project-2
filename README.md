@@ -27,6 +27,8 @@
 # Final Model
 * My final model choice for Heart Failure predictions is the baseline KNN model. This model has the highest accuracy for predictions of heart failure.
 # Final Recommendations
-* For my final recomendations, persons should be monitored for heart disease with a focus on age as a major factor.
+* With this dataset I recommend that medical professionals focus on letting their patients know that even though they may feel fine, they need to pay attention to their health as they may not experience symptoms, they can still be at risk.
+* There should also be a focus on their male patients because they are at higher risk for heart disease.
+* Consider adding a few more features such as “eating habits,” “weight,” etc.
 # Further Contact Information
 * For any questions, please email me at shellymduncan@gmail.com
